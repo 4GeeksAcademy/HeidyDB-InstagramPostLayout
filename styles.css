@@ -1,0 +1,65 @@
+body{
+    background: white ;
+    font-family: "Roboto", sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.encabezado{
+            display: flex;
+            margin: auto;
+            border-radius: 10px;
+            width:100%;
+            height: 10%;
+            align-items: stretch;          
+        }
+h2{
+    margin-bottom: 0;
+}
+    
+h3{
+    margin-top: 0; 
+}
+
+.headerhtml{
+    font-size: 70px;
+    margin: 10px;   
+}
+
+.coment{
+    width:95%;
+    height: 10%;   
+}
+
+.los-tres-puntos{
+    font-size: 30px;   
+    margin: 7px 20px 7px 0px;
+    align-self: center;
+}
+
+.zona-de-foto img{
+    width: 100%;
+    height: 30%;
+    display: flex;
+}
+
+.iconos-inst {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    font-size: 40px;
+}
+
+  
+ .iconos-inst div {
+            display: flex;
+            gap: 10px; /* Espacio entre los iconos */
+        }
+
+.body-final {
+            width: 100%;
+            height: 30%;
+            padding: 10px;
+
+        }
