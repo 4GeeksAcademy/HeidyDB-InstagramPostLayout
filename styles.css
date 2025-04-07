@@ -20,13 +20,14 @@ body{
 
 
 .encabezado{
-            display: flex;
-            margin: auto;
-            border-radius: 10px;
-            width:100%;
-            height: 10%;
-            align-items: stretch;          
-        }
+    display: flex;
+    margin: auto;
+    border-radius: 10px;
+    width:100%;
+    height: 10%;
+    align-items: stretch;          
+}
+
 h2{
     margin-bottom: 0;
 }
@@ -40,7 +41,7 @@ h3{
     margin: 10px;   
 }
 
-.coment{
+.comentario{
     width:95%;
     height: 10%;   
 }
@@ -57,7 +58,7 @@ h3{
     display: flex;
 }
 
-.iconos-inst {
+.iconos-instagram {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -66,14 +67,14 @@ h3{
 }
 
   
- .iconos-inst div {
-            display: flex;
-            gap: 10px; /* Espacio entre los iconos */
-        }
+ .iconos-instagram div {
+    display: flex;
+    gap: 10px; /* Espacio entre los iconos */
+}
 
-.body-final {
-            width: 100%;
-            height: 30%;
-            padding: 10px;
+.zona-de-parrafo {
+    width: 100%;
+    height: 30%;
+    padding: 10px;
 
-        }
+}
